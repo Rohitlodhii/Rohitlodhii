@@ -5,7 +5,8 @@
 - 📫 How to reach me -- on instagram or mail me denomkelvin@gmail.com
 
 LANGUAGES
--HTML CSS JAVASCRIPT
+
+- HTML CSS JAVASCRIPT
 - REACTJS BOOTSTRAP TAILWIND
 - JAVA 
 <!---
